@@ -1,4 +1,4 @@
- <h1 align="center">Aber Hallo, I’m @marijaywoops but you can call me <strong><upcase>Mary</upcase></strong></h1>
+ <h2 align="center">Aber Hallo, I’m @marijaywoops but you can call me <strong><upcase>Mary</upcase></strong></h2>
  
 - 🌊 I’m interested in <strong>Coding</strong>, downhill biking🏔, surfing🏄🏼‍♀️ and skiing🎿
 - 🌱 I’m currently studying in Innsbruck
@@ -6,6 +6,7 @@
 - 💞️ I’m looking forward to work on nice projects after the Bootcamp
 - 📫 How to reach me -> **mariettaxcvb@gmail.com**
 
+<h3 align="left">Get in Contact with me♡:</h3>
 
 <!---
 marijaywoops/marijaywoops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
