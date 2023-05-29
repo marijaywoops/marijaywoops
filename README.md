@@ -1,5 +1,5 @@
 - 🙋🏼‍♀️ Aber Hallo, I’m @marijaywoops but you can call me <strong>Mary</strong>
-- 🌊 I’m interested in <strong>Coding</strong>, downhill biking, surfing and skiing
+- 🌊 I’m interested in <strong>Coding</strong>, downhill biking🏔, surfing🏄🏼‍♀️ and skiing🎿
 - 🌱 I’m currently studying in Innsbruck
 - 👩🏼‍💻 I will graduate  from <strong>Le Wagon Web Development Full-Time Bootcamp</strong> in June
 - 💞️ I’m looking forward to work on nice projects after the Bootcamp
