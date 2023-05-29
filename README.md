@@ -7,7 +7,8 @@
 - 📫 How to reach me -> **mariettaxcvb@gmail.com**
 
 <h3 align="left">Get in Contact with me♡:</h3>
-
+<p align="center">
+ <a href:"https://www.linkedin.com/in/marietta-jecht-424b74255/" target="blank"><img align="center src="https://www.flaticon.com/authors/freepik" alt="marijaywoops" height="30" width="40" /></a>
 <!---
 marijaywoops/marijaywoops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
