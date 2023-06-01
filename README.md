@@ -6,7 +6,7 @@
 - 💞️ I’m looking forward to work on nice projects after the Bootcamp
 - 📫 How to reach me -> **mariettaxcvb@gmail.com**
 
-<h3 align="left">Get in Contact with me♡:</h3>
+<h3 align="center">Get in Contact with me♡:</h3>
 <p align="center">
  <a href:"https://www.linkedin.com/in/marietta-jecht-424b74255/" target="blank"><img align="center alt="marijaywoops" height="30" width="40" />
    <img src=">
