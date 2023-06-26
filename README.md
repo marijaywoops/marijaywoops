@@ -5,6 +5,10 @@
 - 👩🏼‍💻 I will graduate  from <strong>Le Wagon Web Development Full-Time Bootcamp</strong> in June
 - 💞️ I’m looking forward to work on nice projects after the Bootcamp
 - 📫 How to reach me -> **mariettaxcvb@gmail.com**
+- :hammer_and_wrench: Languages and Tools :
+  <div align="center"x>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40"           height="40"/>&nbsp;
+  </div>
 
 <h3 align="center">Get in Contact with me♡:</h3>
 <p align="center">
