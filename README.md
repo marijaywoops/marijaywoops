@@ -6,9 +6,13 @@
 - 💞️ I’m looking forward to work on nice projects after the Bootcamp
 - 📫 How to reach me -> **mariettaxcvb@gmail.com**
 - :hammer_and_wrench: Languages and Tools :
-  <div align="center"x>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40"           height="40"/>&nbsp;
-  </div>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
+</div>
 
 <h3 align="center">Get in Contact with me♡:</h3>
 <p align="center">
