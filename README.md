@@ -2,8 +2,9 @@
  
 - 🌊 I’m interested in <strong>Coding</strong>, downhill biking🏔, surfing🏄🏼‍♀️ and skiing🎿
 - 🌱 I’m currently studying in Innsbruck
-- 👩🏼‍💻 I will graduate  from <strong>Le Wagon Web Development Full-Time Bootcamp</strong> in June
+- 👩🏼‍💻 I graduated  from <strong>Le Wagon Web Development Full-Time Bootcamp</strong> in June
 - 💞️ I’m looking forward to work on nice projects after the Bootcamp
+- 📚 I’m currently learning C++ and Python
 - 📫 How to reach me -> **mariettaxcvb@gmail.com**
 
 
@@ -19,7 +20,7 @@
 <h3 align="center">If you want to learn more about me♡:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/marietta-jecht-424b74255/" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 <!---
